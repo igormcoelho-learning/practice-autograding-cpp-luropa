@@ -11,7 +11,7 @@ If you want to practice this activity, just follow this link: https://classroom.
 
 **TODO - Please put your name in this README**
 
-Luciana Rocha Palhanos
+# Luciana Rocha Palhanos
 
 ## Problem Description
 
